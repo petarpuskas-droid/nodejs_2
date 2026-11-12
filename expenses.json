@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "Tuna",
+    "amount": 2.5
+  },
+  {
+    "id": 2,
+    "description": "Kruh",
+    "amount": 1.5
+  },
+  {
+    "id": 3,
+    "description": "Mlijeko",
+    "amount": 2
+  }
+]
